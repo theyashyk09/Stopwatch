@@ -6,6 +6,10 @@ This is a simple stopwatch developed using html, css and javascript.
 
 ## Video
 
+https://user-images.githubusercontent.com/109405477/193334825-dd537a21-728c-47f6-a8a0-1039cc0bf4c5.mp4
+
+
+
 **Check it out at : https://ykstopwatch.netlify.app/**
 
 ## 🚀 About Me
